@@ -1,2 +1,2 @@
 # student-sc
-for the students
+for the students.
